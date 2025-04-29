@@ -1,4 +1,4 @@
-## Hi, I'm Dach Dalin 👋
+## Hi, I'm Dalin 👋
 
 - 🔭 I’m a Web Developer ...
 
